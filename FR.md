@@ -7,6 +7,27 @@ Bonjour à tous chers streamers, nous vous présentons l'application Windows Bac
 1. Vous connectez votre compte Twitch en ouvrant l'application
 2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#FAQ)))
 3. L'application ouvre la plateforme choisie
+4. 1. Vous connectez votre compte Twitch en ouvrant l'application
+2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#FAQ)))
+3. L'application ouvre la plateforme choisie1. Vous connectez votre compte Twitch en ouvrant l'application
+2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#FAQ)))
+3. L'application ouvre la plateforme choisie1. Vous connectez votre compte Twitch en ouvrant l'application
+2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#FAQ)))
+3. L'application ouvre la plateforme choisie1. Vous connectez votre compte Twitch en ouvrant l'application
+2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#FAQ)))
+3. L'application ouvre la plateforme choisie1. Vous connectez votre compte Twitch en ouvrant l'application
+2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#FAQ)))
+3. L'application ouvre la plateforme choisie1. Vous connectez votre compte Twitch en ouvrant l'application
+2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#FAQ)))
+3. L'application ouvre la plateforme choisie1. Vous connectez votre compte Twitch en ouvrant l'application
+2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#FAQ)))
+3. L'application ouvre la plateforme choisie1. Vous connectez votre compte Twitch en ouvrant l'application
+2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#FAQ)))
+3. L'application ouvre la plateforme choisie1. Vous connectez votre compte Twitch en ouvrant l'application
+2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#FAQ)))
+3. L'application ouvre la plateforme choisie1. Vous connectez votre compte Twitch en ouvrant l'application
+2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#FAQ)))
+3. L'application ouvre la plateforme choisie
 
 ## FAQ
 
