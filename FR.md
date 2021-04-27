@@ -5,6 +5,10 @@ Bonjour à tous chers streamers, nous vous présentons l'application Windows Bac
 
 **Veuillez lire attentivement cette documentation vous pouvez nous poser des questions en plus sur [Twitter](https://twitter.com/backbeat_ext). Mais si les questions sont dans la FAQ on ne vous répondra pas tout simplement**
 
+---
+
+**Si vous avez des bugs à signaler nos DMs [Twitter](https://twitter.com/backbeat_ext) sont faits pour ça.
+
 ## Fonctionnement
 1. Vous connectez votre compte Twitch en ouvrant l'application
 2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#Pourquoi-YouTube-est-déconseillé)))
@@ -13,7 +17,13 @@ Bonjour à tous chers streamers, nous vous présentons l'application Windows Bac
 5. Et c'est parti ! Les viewers écoutent la même chanson que vous et en même temps (enfin normalement)
 
 ## Précautions
+*Voici quelques précautions à prendre pour éviter de causer des bugs*
 
+---
+
+* Evitez d'utiliser des raccourcis clavier pour contrôler la musique
+* Lorsqu'il y a plusieurs moyens de contrôler la musique utilisez la façon la plus logique (on en a sûrement oublié)
+* Si vous utilisez Youtube (vous êtes têtu dis donc) évitez les clips préférez les audios générés automatiquement, évitez aussi les musiques avec des noms de chaîne avec des mots en plus que le nom de l'artiste (ex: vevo, topic, official)
 
 ## FAQ
 
