@@ -7,7 +7,7 @@ Bonjour à tous chers streamers, nous vous présentons l'application Windows Bac
 
 ---
 
-**Si vous avez des bugs à signaler nos DMs [Twitter](https://twitter.com/backbeat_ext) sont faits pour ça.
+**Si vous avez des bugs à signaler nos DMs [Twitter](https://twitter.com/backbeat_ext) sont faits pour ça.**
 
 ## Fonctionnement
 1. Vous connectez votre compte Twitch en ouvrant l'application
