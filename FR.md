@@ -8,4 +8,6 @@ Bonjour à tous chers streamers, nous vous présentons l'application Windows Bac
 2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#FAQ)))
 3. L'application ouvre la plateforme choisie
 
-# FAQ
+## FAQ
+
+### Youtube déconseillé
