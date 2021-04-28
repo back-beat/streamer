@@ -33,7 +33,12 @@ Les plateformes présentes sur l'application proposent de créer des players per
 * Si vous utilisez Youtube (vous êtes têtu dis donc) évitez les clips préférez les audios générés automatiquement, évitez aussi les musiques avec des noms de chaîne avec des mots en plus que le nom de l'artiste (ex: vevo, topic, official...)
 * Essayez d'intéragir avec l'application régulièrement pour éviter le délai trop important
 * Utilisez la musique plutôt comme un fond (d'où le nom Backbeat) et pas comme un ajout principal: le délai peut ne pas correspondre en fonction de votre connexion, celle des viewers, des serveurs, si les serveurs sont surchargés cela pourait nuire à l'expérience des utilisateurs.
+* Ajoutez sur votre stream une indication de la musique actuellement jouée pour que les viewers ayant un trop gros délai puissent le synchroniser de nouveau
 
 ## FAQ
 
 ### Pourquoi YouTube est déconseillé
+1. Les videos vevo et autres ne sont pas supportées sur le player des viewers (sauf avec cette [solution](#Solution-Vevo) technique)
+2. Les chaînes youtube n'ont généralement pas le même nom que l'artiste
+3. Les vues ne sont pas comptabilisées dans les streams pour les récompenses (on pense aux artistes quand même)
+4. La durée de la version youtube peut varier de la version originale
