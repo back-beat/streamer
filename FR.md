@@ -3,7 +3,7 @@
 ## Brief
 Bonjour à tous chers streamers, nous vous présentons l'application Windows Backbeat. L'application Backbeat vous permet de diffuser vos informations sur la musique actuellement jouée via notre serveur. 
 
-**Veuillez lire attentivement cette documentation vous pouvez nous poser des questions en plus sur [Twitter](https://twitter.com/backbeat_ext). Mais si les questions sont dans la FAQ on ne vous répondra pas tout simplement**
+**Veuillez lire attentivement cette documentation vous pouvez nous poser des questions en plus sur [Twitter](https://twitter.com/backbeat_ext). Mais si les questions sont dans la FAQ on ne vous répondra pas tout simplement.**
 
 ### Comment ça marche ?
 L'application récupère les informations sur la chanson que vous jouez actuellement, elle envoie ces informations à notre serveur. Lorsqu'un nouveau viewer veut écouter la musique il demande au serveur et il reçoit les informations sur la chanson. Lorsque vous changez de chanson pause etc le serveur envoie l'information au viewers. 
