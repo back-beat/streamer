@@ -6,7 +6,7 @@ Bonjour à tous chers streamers, nous vous présentons l'application Windows Bac
 **Veuillez lire attentivement cette documentation vous pouvez nous poser des questions en plus sur [Twitter](https://twitter.com/backbeat_ext). Mais si les questions sont dans la FAQ on ne vous répondra pas tout simplement.**
 
 ### Comment ça marche ?
-L'application récupère les informations sur la chanson que vous jouez actuellement, elle envoie ces informations à notre serveur. Lorsqu'un nouveau viewer veut écouter la musique il demande au serveur et il reçoit les informations sur la chanson. Lorsque vous changez de chanson pause etc le serveur envoie l'information au viewers. 
+L'application récupère les informations sur la chanson que vous jouez actuellement, elle envoie ces informations à notre serveur. Lorsqu'un nouveau viewer veut écouter la musique il demande au serveur et il reçoit les informations sur la chanson. Lorsque vous changez de chanson pause etc le serveur envoie l'information aux viewers. 
 
 ### Mais comment le viewer écoute la musique sans violer les saints DMCA ?
 Les plateformes présentes sur l'application proposent de créer des players personnalisés pour jouer de la musique via leur service. Donc pour les ayants droits (UMG) ils voient seulement plusieurs utilisateurs écouter la même musique en même temps. Donc cela génère des streams et un streamer conséquent peut donc augmenter les streams des artistes. Je vois déjà venir quelques malins si des artistes vous payent pour mettre de la musique VOUS DEVEZ LE SIGNALER !!!. 
