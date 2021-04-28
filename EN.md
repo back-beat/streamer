@@ -22,17 +22,17 @@ The platforms actually on the application offer to create customized players to 
 5. And here we go ! The viewers listen the same music as you and at the same time (normally)
 6. The default's delay is 3 seconds
 
-## Précautions
-*Voici quelques précautions à prendre pour éviter de causer des bugs*
+## Precautions
+*Here are some precautions to apply to avoid bugs*
 
 ---
 
-* Evitez d'utiliser des raccourcis clavier pour contrôler la musique
-* Lorsqu'il y a plusieurs moyens de contrôler la musique utilisez la façon la plus logique (on en a sûrement oublié)
-* Si vous utilisez Youtube (vous êtes têtu dis donc) évitez les clips préférez les audios générés automatiquement, évitez aussi les musiques avec des noms de chaîne avec des mots en plus que le nom de l'artiste (ex: vevo, topic, official...)
+* Don't use shortcuts to control music
+* When they are multiple ways to control the music use the most logical way (we surely forgot some)
+* If you use YouTube avoid the clips prefer the automatic generated audios, avoid too the songs with channel's name different from the artist name (ex: vevo, official, topic)
 * Essayez d'intéragir avec l'application régulièrement pour éviter le délai trop important
-* Utilisez la musique plutôt comme un fond (d'où le nom Backbeat) et pas comme un ajout principal: le délai peut ne pas correspondre en fonction de votre connexion, celle des viewers, des serveurs, si les serveurs sont surchargés cela pourait nuire à l'expérience des utilisateurs.
-* Ajoutez sur votre stream une indication de la musique actuellement jouée pour que les viewers ayant un trop gros délai puissent le synchroniser de nouveau
+* Use the music as a background not as a main feature: the delay could not correspond depending on your connection, viewer's connection, server's connection, if the servers are overloaded it could harm to user's experience
+* Add to your stream a sign displaying the current song played so the viewers can know if they have too much delay to resync music.
 
 ## FAQ
 
