@@ -1,12 +1,12 @@
 # English
 
 ## Brief
-Bonjour à tous chers streamers, nous vous présentons l'application Windows Backbeat. L'application Backbeat vous permet de diffuser vos informations sur la musique actuellement jouée via notre serveur. 
+Hello dear streamers, we are honored to present you the Backbeat Windows app. The Backbeat app allows you to broadcast your actual playing song informations to our server.
 
-**Veuillez lire attentivement cette documentation vous pouvez nous poser des questions en plus sur [Twitter](https://twitter.com/backbeat_ext). Mais si les questions sont dans la FAQ on ne vous répondra pas tout simplement.**
+**Please read carefully this documentation, you can ask us more questions on [Twitter](https://twitter.com/backbeat_ext). But if the questions are in the FAQ we won't respond, as simple as that.**
 
-### Comment ça marche ?
-L'application récupère les informations sur la chanson que vous jouez actuellement, elle envoie ces informations à notre serveur. Lorsqu'un nouveau viewer veut écouter la musique il demande au serveur et il reçoit les informations sur la chanson. Lorsque vous changez de chanson pause etc le serveur envoie l'information aux viewers. 
+### How it works ?
+The application gets the informations about the current playing song, it sends this informations to our server. When a new viewer wants to listen to the music, he asks to the server and he receives the informations of the song. When you change the song, pause... the server sends the information to the viewers.
 
 ### Mais comment le viewer écoute la musique sans violer les saints DMCA ?
 Les plateformes présentes sur l'application proposent de créer des players personnalisés pour jouer de la musique via leur service. Donc pour les ayants droits (UMG) ils voient seulement plusieurs utilisateurs écouter la même musique en même temps. Donc cela génère des streams et un streamer conséquent peut donc augmenter les streams des artistes. Je vois déjà venir quelques malins si des artistes vous payent pour mettre leur musique VOUS DEVEZ LE SIGNALER !!!. 
