@@ -1,6 +1,4 @@
-# Français
-
-![](https://github.com/back-beat/streamer/blob/main/screen.png)
+# English
 
 ## Brief
 Bonjour à tous chers streamers, nous vous présentons l'application Windows Backbeat. L'application Backbeat vous permet de diffuser vos informations sur la musique actuellement jouée via notre serveur. 
