@@ -44,5 +44,5 @@ Les plateformes présentes sur l'application proposent de créer des players per
 4. La durée de la version youtube peut varier de la version originale
 
 ### Ca marche pas
-> Appuie sur ON
-> Ah ça marche
+> Appuie sur ON.
+> Ah ça marche !
