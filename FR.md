@@ -46,3 +46,7 @@ Les plateformes présentes sur l'application proposent de créer des players per
 ### Ça marche pas
 > Appuie sur ON.
 > Ah ça marche !
+
+---
+
+Plus sérieusement, si vous avez un problème rejoignez notre [discord](https://discord.gg/7HA6NQetP5) où vous pourrez poser des questions et d'autres utilisateurs pourront aussi répondre.
