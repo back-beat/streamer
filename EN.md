@@ -8,12 +8,11 @@ Hello dear streamers, we are honored to present you the Backbeat Windows app. Th
 ### How it works ?
 The application gets the informations about the current playing song, it sends this informations to our server. When a new viewer wants to listen to the music, he asks to the server and he receives the informations of the song. When you change the song, pause... the server sends the information to the viewers.
 
-### Mais comment le viewer écoute la musique sans violer les saints DMCA ?
-Les plateformes présentes sur l'application proposent de créer des players personnalisés pour jouer de la musique via leur service. Donc pour les ayants droits (UMG) ils voient seulement plusieurs utilisateurs écouter la même musique en même temps. Donc cela génère des streams et un streamer conséquent peut donc augmenter les streams des artistes. Je vois déjà venir quelques malins si des artistes vous payent pour mettre leur musique VOUS DEVEZ LE SIGNALER !!!. 
+### How the viewers can listen to music without violating the DMCA ?
+The platforms actually on the application offer to create customized players to play music with their service. So for the beneficiary of the music, they only see several users listenning to the same music at the same time. So it generates streams for artists and an important streamer can increasse extremely the artist streams.
 
 ---
-
-**Si vous avez des bugs à signaler nos DMs [Twitter](https://twitter.com/backbeat_ext) sont faits pour ça.**
+**If you have bugs to report our DMs on [Twitter](https://twitter.com/backbeat_ext) are open.**
 
 ## Fonctionnement
 1. Vous connectez votre compte Twitch en ouvrant l'application
