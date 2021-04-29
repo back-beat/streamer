@@ -44,6 +44,7 @@ Les plateformes présentes sur l'application proposent de créer des players per
 2. Les chaînes youtube n'ont généralement pas le même nom que l'artiste
 3. Les vues ne sont pas comptabilisées dans les streams pour les récompenses (on pense aux artistes quand même)
 4. La durée de la version youtube peut varier de la version originale
+5. Nous avons un nombre limite d'appels à Youtube
 
 ### Ça marche pas
 > Appuie sur ON.
