@@ -30,6 +30,7 @@ Les plateformes présentes sur l'application proposent de créer des players per
 
 ---
 
+* Evidemment mutez l'application sur votre logiciel de capture par exemple avec [ voicemeteer](https://vb-audio.com/Voicemeeter/banana.htm) on rappelle que la musique n'est jamais diffusée sur votre stream
 * Evitez d'utiliser des raccourcis clavier pour contrôler la musique
 * Lorsqu'il y a plusieurs moyens de contrôler la musique utilisez la façon la plus logique (on en a sûrement oublié)
 * Si vous utilisez Youtube (vous êtes têtu dis donc) évitez les clips préférez les audios générés automatiquement, évitez aussi les musiques avec des noms de chaîne avec des mots en plus que le nom de l'artiste (ex: vevo, topic, official...)
