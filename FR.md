@@ -7,6 +7,8 @@ Bonjour à tous chers streamers, nous vous présentons l'application Windows Bac
 
 **Veuillez lire attentivement cette documentation vous pouvez nous poser des questions en plus sur [Twitter](https://twitter.com/backbeat_ext). Mais si les questions sont dans la FAQ on ne vous répondra pas tout simplement.**
 
+**Rejoignez notre serveur [disccord](https://discord.gg/9EBDesEFDb) si vous avez besoin d'aide de la communauté**
+
 ### Comment ça marche ?
 L'application récupère les informations sur la chanson que vous jouez actuellement, elle envoie ces informations à notre serveur. Lorsqu'un nouveau viewer veut écouter la musique il demande au serveur et il reçoit les informations sur la chanson. Lorsque vous changez de chanson pause etc le serveur envoie l'information aux viewers. 
 
