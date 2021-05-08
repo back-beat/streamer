@@ -7,7 +7,7 @@ Bonjour à tous chers streamers, nous vous présentons l'application Windows Bac
 
 **Veuillez lire attentivement cette documentation vous pouvez nous poser des questions en plus sur [Twitter](https://twitter.com/backbeat_ext). Mais si les questions sont dans la FAQ on ne vous répondra pas tout simplement.**
 
-**Rejoignez notre serveur [disccord](https://discord.gg/9EBDesEFDb) si vous avez besoin d'aide de la communauté**
+**Rejoignez notre serveur [discord](https://discord.gg/9EBDesEFDb) si vous avez besoin d'aide de la communauté**
 
 ### Comment ça marche ?
 L'application récupère les informations sur la chanson que vous jouez actuellement, elle envoie ces informations à notre serveur. Lorsqu'un nouveau viewer veut écouter la musique il demande au serveur et il reçoit les informations sur la chanson. Lorsque vous changez de chanson pause etc le serveur envoie l'information aux viewers. 
@@ -17,7 +17,7 @@ Les plateformes présentes sur l'application proposent de créer des players per
 
 ---
 
-**Si vous avez des bugs à signaler nos DMs [Twitter](https://twitter.com/backbeat_ext) sont faits pour ça.**
+**Si vous avez des bugs à signaler nos DMs [Twitter](https://twitter.com/backbeat_ext) sont faits pour ça. Aussi le [discord](https://discord.gg/9EBDesEFDb)**
 
 ## Fonctionnement
 1. Vous connectez votre compte Twitch en ouvrant l'application
@@ -55,4 +55,4 @@ Les plateformes présentes sur l'application proposent de créer des players per
 
 ---
 
-Plus sérieusement, si vous avez un problème rejoignez notre [discord](https://discord.gg/7HA6NQetP5) où vous pourrez poser des questions et d'autres utilisateurs pourront aussi répondre.
+Plus sérieusement, si vous avez un problème rejoignez notre [discord](https://discord.gg/9EBDesEFDb) où vous pourrez poser des questions et d'autres utilisateurs pourront aussi répondre.
