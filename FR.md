@@ -24,7 +24,7 @@ Les plateformes présentes sur l'application proposent de créer des players per
 2. Vous choisissez votre plateforme (Spotify, Deezer (vive la frenchtech), et Youtube(déconseillé [Pourquoi ?](#Pourquoi-YouTube-est-déconseillé)))
 3. L'application ouvre la plateforme choisie
 4. Jouez une chanson, une playlist, un album (sauf les podcats)
-5. Et c'est parti ! Les viewers écoutent la même chanson que vous et en même temps (enfin normalement)
+5. Et c'est parti ! Les viewers écoutent la même chanson que vous et en même temps
 6. Le délai par défaut est de 3 secondes
 
 ## Précautions
