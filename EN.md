@@ -19,7 +19,7 @@ The platforms actually on the application offer to create customized players to 
 2. You choose your platform (Spotify, Deezer (frenchtech), and Youtube(deprecated [Why ?](#Why-YouTube-is-deprecated)))
 3. The app opens the choosen platform
 4. Play a song, a playlist, an album (everything you want except podcast)
-5. And here we go ! The viewers listen the same music as you and at the same time (normally)
+5. And here we go ! The viewers listen the same music as you and at the same time
 6. The default's delay is 3 seconds
 
 ## Precautions
