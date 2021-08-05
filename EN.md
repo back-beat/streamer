@@ -36,16 +36,11 @@ The platforms actually on the application offer to create customized players to 
 
 ## FAQ
 
-### Pourquoi YouTube est déconseillé
-1. Les videos vevo et autres ne sont pas supportées sur le player des viewers (sauf avec cette [solution](#Solution-Vevo) technique)
-2. Les chaînes youtube n'ont généralement pas le même nom que l'artiste
-3. Les vues ne sont pas comptabilisées dans les streams pour les récompenses (on pense aux artistes quand même)
-4. La durée de la version youtube peut varier de la version originale
+### Why YouTube is not recommended
+1. Vevo videos are not available
+2. Youtube channel's name is not always the same as the artist name 
+3. Youtube is not counting as official stream for the music rewards
+4. Music Youtube's version may not be exactly the same time length as the streaming version 
 
-### Ça marche pas
-> Appuie sur ON.
-> Ah ça marche !
-
----
-
-Plus sérieusement, si vous avez un problème rejoignez notre [discord](https://discord.gg/7HA6NQetP5) où vous pourrez poser des questions et d'autres utilisateurs pourront aussi répondre.
+### It doesn't work
+If you have an issue join our [discord](https://discord.gg/7HA6NQetP5) server where you can ask your inquiries
